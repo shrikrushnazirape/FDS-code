@@ -142,3 +142,139 @@ while True:
         break
     else:
         ("!!Wrong Choice!! ")
+
+'''
+Output of the program
+----------------------------********---------------------------------------
+Totle no of student in comp department
+5
+Enter the name of student(each on new line)
+a
+b
+c
+d
+e
+No of student who play cricket
+2
+enter name of student who play cricket(each on new line)
+a
+b
+No of student who play badminton
+2
+enter name of student who play badminton(each on new line)
+b
+c
+No of student who play football
+2
+enter name of student who play football(each on new line)
+c
+d
+_____________________________________________________________  
+no of student in comp department 5
+['a', 'b', 'c', 'd', 'e']
+no of student who play cricket 2
+['a', 'b']
+no of student who play badminton 2
+['b', 'c']
+no of student who play football 2
+['c', 'd']
+______________________________________________________________ 
+_______________________________________________________________
+1. both cricket and badminton
+2. either cricket or badminton but not both
+3. neither cricket nor badminton
+4.  cricket and football but not badminton
+5. Exit
+
+Enter your Choice (from 1 to 5) :1
+_________________________________________________________________
+no of student who play both cricket and badminton 1
+list of student who play both cricket and badminton ['b']
+_______________________________________________________________
+1. both cricket and badminton
+2. either cricket or badminton but not both
+3. neither cricket nor badminton
+4.  cricket and football but not badminton
+5. Exit
+
+Enter your Choice (from 1 to 5) :2
+_________________________________________________________________
+no of student who play either cricet or badminton but not both 1
+list of student who play either cricet or badminton but not both ['a']
+_______________________________________________________________
+1. both cricket and badminton
+2. either cricket or badminton but not both
+3. neither cricket nor badminton
+4.  cricket and football but not badminton
+5. Exit
+
+Enter your Choice (from 1 to 5) :3
+_________________________________________________________________
+ no of students who play neither cricket nor badminton is :  3
+
+
+List of students who play neither cricket nor badminton is :  ['c', 'd', 'e']
+_______________________________________________________________
+1. both cricket and badminton
+2. either cricket or badminton but not both
+3. neither cricket nor badminton
+4.  cricket and football but not badminton
+5. Exit
+
+Enter your Choice (from 1 to 5) :4
+_________________________________________________________________
+no of student who play cricket and football but not badminton    : 0
+
+
+List of students who play cricket and football but not badminton is :  []
+_______________________________________________________________
+1. both cricket and badminton
+2. either cricket or badminton but not both
+3. neither cricket nor badminton
+4.  cricket and football but not badminton
+5. Exit
+3. neither cricket nor badminton
+4.  cricket and football but not badminton
+5. Exit
+
+Enter your Choice (from 1 to 5) :2
+_________________________________________________________________
+no of student who play either cricet or badminton but not both 1
+list of student who play either cricet or badminton but not both ['a']
+_______________________________________________________________
+1. both cricket and badminton
+2. either cricket or badminton but not both
+3. neither cricket nor badminton
+4.  cricket and football but not badminton
+5. Exit
+
+Enter your Choice (from 1 to 5) :3
+_________________________________________________________________
+ no of students who play neither cricket nor badminton is :  3
+
+
+List of students who play neither cricket nor badminton is :  ['c', 'd', 'e']
+_______________________________________________________________
+1. both cricket and badminton
+2. either cricket or badminton but not both
+3. neither cricket nor badminton
+4.  cricket and football but not badminton
+5. Exit
+
+Enter your Choice (from 1 to 5) :4
+_________________________________________________________________
+no of student who play cricket and football but not badminton    : 0
+
+
+List of students who play cricket and football but not badminton is :  []
+_______________________________________________________________
+1. both cricket and badminton
+2. either cricket or badminton but not both
+3. neither cricket nor badminton
+4.  cricket and football but not badminton
+5. Exit
+
+Enter your Choice (from 1 to 5) :5
+_________________________________________________________________
+'''
+
